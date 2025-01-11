@@ -2,6 +2,8 @@
   <div>
     <h1>lending page</h1>
     <!-- test text -->
+    <!-- test text -->
+    <!-- test text -->
   </div>
 </template>
 
